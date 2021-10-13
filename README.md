@@ -9,8 +9,8 @@
 This is my final project for the Machine Learning class in university.
 
 #### My Contribution:
-- Researching dataset.
-- Base modelling.
+- Data preprocessing.
+- Modelling.
 - Tuned the models.
 
 #### Dataset:
