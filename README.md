@@ -8,5 +8,10 @@
 #### Description:
 This is my final project for the Machine Learning class in university.
 
+#### My Contribution:
+- Researching dataset.
+- Base modelling.
+- Tuned the models.
+
 #### Dataset:
 https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
